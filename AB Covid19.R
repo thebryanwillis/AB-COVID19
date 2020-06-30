@@ -1,0 +1,26 @@
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("gganimate")
+library(gganimate)
+install.packages("gifski")
+library(gifski)
+
+#Read in and display the data
+covid = read.csv(file = "/cloud/project/AB COVID19.csv")
+covid
+#Produce static scatterplot graph for recoveries
+p = ggplot(covid, aes(x=Case, y=Recover, colour = Alberta.Health.Services.Zone))+geom_point()+labs(x="# of Cases", y="# of Recoveries")
+#Split by Health Zone, add trails, elapse by day
+p = p + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Index)+ shadow_mark(alpha = 0.3, size = 0.5)+labs(title = "Day: {frame_time}")
+#Animate graph
+animate(p, duration = 7, fps = 25, width = 800, height = 450, renderer = gifski_renderer())
+anim_save("recover.gif")
+
+#Produce static scatterplot graph for deaths
+p2 = ggplot(covid, aes(x=Case, y=Death, colour = Alberta.Health.Services.Zone))+geom_point()+labs(x="# of Cases", y="# of Deaths")
+#Split by Health Zone, add trails, elapse by day
+p2 = p2 + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Index)+ shadow_mark(alpha = 0.3, size = 0.5)+labs(title = "Day: {frame_time}")
+#Animate graph
+animate(p, duration = 7, fps = 25, width = 800, height = 450, renderer = gifski_renderer())
+anim_save("death.gif")
+
