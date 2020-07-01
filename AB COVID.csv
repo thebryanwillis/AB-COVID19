@@ -1,0 +1,703 @@
+Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
+1,3/6/2020,Calgary Zone,1,0
+1,3/6/2020,Central Zone,0,0
+1,3/6/2020,Edmonton Zone,0,0
+1,3/6/2020,North Zone,0,0
+1,3/6/2020,South Zone,0,0
+1,3/6/2020,Unknown,0,0
+2,3/7/2020,Calgary Zone,1,0
+2,3/7/2020,Central Zone,0,0
+2,3/7/2020,Edmonton Zone,0,0
+2,3/7/2020,North Zone,0,0
+2,3/7/2020,South Zone,0,0
+2,3/7/2020,Unknown,0,0
+3,3/8/2020,Calgary Zone,1,0
+3,3/8/2020,Central Zone,0,0
+3,3/8/2020,Edmonton Zone,0,0
+3,3/8/2020,North Zone,0,0
+3,3/8/2020,South Zone,0,0
+3,3/8/2020,Unknown,0,0
+4,3/9/2020,Calgary Zone,4,0
+4,3/9/2020,Central Zone,0,0
+4,3/9/2020,Edmonton Zone,3,0
+4,3/9/2020,North Zone,0,0
+4,3/9/2020,South Zone,0,0
+4,3/9/2020,Unknown,0,0
+5,3/10/2020,Calgary Zone,10,0
+5,3/10/2020,Central Zone,0,0
+5,3/10/2020,Edmonton Zone,6,0
+5,3/10/2020,North Zone,0,0
+5,3/10/2020,South Zone,0,0
+5,3/10/2020,Unknown,0,0
+6,3/11/2020,Calgary Zone,16,0
+6,3/11/2020,Central Zone,1,0
+6,3/11/2020,Edmonton Zone,7,0
+6,3/11/2020,North Zone,0,0
+6,3/11/2020,South Zone,0,0
+6,3/11/2020,Unknown,0,0
+7,3/12/2020,Calgary Zone,18,0
+7,3/12/2020,Central Zone,1,0
+7,3/12/2020,Edmonton Zone,7,0
+7,3/12/2020,North Zone,0,0
+7,3/12/2020,South Zone,0,0
+7,3/12/2020,Unknown,0,0
+8,3/13/2020,Calgary Zone,25,0
+8,3/13/2020,Central Zone,1,0
+8,3/13/2020,Edmonton Zone,8,0
+8,3/13/2020,North Zone,0,0
+8,3/13/2020,South Zone,0,0
+8,3/13/2020,Unknown,0,0
+9,3/14/2020,Calgary Zone,38,0
+9,3/14/2020,Central Zone,1,0
+9,3/14/2020,Edmonton Zone,13,1
+9,3/14/2020,North Zone,0,0
+9,3/14/2020,South Zone,0,0
+9,3/14/2020,Unknown,0,0
+10,3/15/2020,Calgary Zone,46,0
+10,3/15/2020,Central Zone,1,0
+10,3/15/2020,Edmonton Zone,14,1
+10,3/15/2020,North Zone,0,0
+10,3/15/2020,South Zone,0,0
+10,3/15/2020,Unknown,0,0
+11,3/16/2020,Calgary Zone,62,0
+11,3/16/2020,Central Zone,2,0
+11,3/16/2020,Edmonton Zone,21,1
+11,3/16/2020,North Zone,2,0
+11,3/16/2020,South Zone,1,0
+11,3/16/2020,Unknown,0,0
+12,3/17/2020,Calgary Zone,64,0
+12,3/17/2020,Central Zone,3,0
+12,3/17/2020,Edmonton Zone,29,1
+12,3/17/2020,North Zone,3,1
+12,3/17/2020,South Zone,,0
+12,3/17/2020,Unknown,0,0
+13,3/18/2020,Calgary Zone,88,0
+13,3/18/2020,Central Zone,3,0
+13,3/18/2020,Edmonton Zone,33,1
+13,3/18/2020,North Zone,4,1
+13,3/18/2020,South Zone,3,0
+13,3/18/2020,Unknown,0,0
+14,3/19/2020,Calgary Zone,103,1
+14,3/19/2020,Central Zone,3,0
+14,3/19/2020,Edmonton Zone,42,1
+14,3/19/2020,North Zone,12,1
+14,3/19/2020,South Zone,4,0
+14,3/19/2020,Unknown,0,0
+15,3/20/2020,Calgary Zone,133,1
+15,3/20/2020,Central Zone,4,0
+15,3/20/2020,Edmonton Zone,53,1
+15,3/20/2020,North Zone,13,1
+15,3/20/2020,South Zone,6,0
+15,3/20/2020,Unknown,0,0
+16,3/21/2020,Calgary Zone,159,2
+16,3/21/2020,Central Zone,6,0
+16,3/21/2020,Edmonton Zone,56,2
+16,3/21/2020,North Zone,15,1
+16,3/21/2020,South Zone,7,0
+16,3/21/2020,Unknown,0,0
+17,3/22/2020,Calgary Zone,187,2
+17,3/22/2020,Central Zone,10,0
+17,3/22/2020,Edmonton Zone,60,2
+17,3/22/2020,North Zone,17,1
+17,3/22/2020,South Zone,8,0
+17,3/22/2020,Unknown,0,0
+18,3/23/2020,Calgary Zone,215,3
+18,3/23/2020,Central Zone,22,0
+18,3/23/2020,Edmonton Zone,71,2
+18,3/23/2020,North Zone,17,1
+18,3/23/2020,South Zone,,0
+18,3/23/2020,Unknown,0,0
+19,3/24/2020,Calgary Zone,255,6
+19,3/24/2020,Central Zone,30,0
+19,3/24/2020,Edmonton Zone,85,2
+19,3/24/2020,North Zone,19,1
+19,3/24/2020,South Zone,10,0
+19,3/24/2020,Unknown,0,0
+20,3/25/2020,Calgary Zone,295,11
+20,3/25/2020,Central Zone,31,0
+20,3/25/2020,Edmonton Zone,97,3
+20,3/25/2020,North Zone,22,1
+20,3/25/2020,South Zone,11,0
+20,3/25/2020,Unknown,0,0
+21,3/26/2020,Calgary Zone,337,11
+21,3/26/2020,Central Zone,32,0
+21,3/26/2020,Edmonton Zone,102,3
+21,3/26/2020,North Zone,24,1
+21,3/26/2020,South Zone,,0
+21,3/26/2020,Unknown,0,0
+22,3/27/2020,Calgary Zone,381,16
+22,3/27/2020,Central Zone,39,0
+22,3/27/2020,Edmonton Zone,125,3
+22,3/27/2020,North Zone,38,1
+22,3/27/2020,South Zone,,0
+22,3/27/2020,Unknown,0,0
+23,3/28/2020,Calgary Zone,413,21
+23,3/28/2020,Central Zone,39,0
+23,3/28/2020,Edmonton Zone,139,4
+23,3/28/2020,North Zone,42,1
+23,3/28/2020,South Zone,,0
+23,3/28/2020,Unknown,0,0
+24,3/29/2020,Calgary Zone,432,24
+24,3/29/2020,Central Zone,41,0
+24,3/29/2020,Edmonton Zone,148,4
+24,3/29/2020,North Zone,42,1
+24,3/29/2020,South Zone,,0
+24,3/29/2020,Unknown,0,0
+25,3/30/2020,Calgary Zone,452,25
+25,3/30/2020,Central Zone,42,0
+25,3/30/2020,Edmonton Zone,165,4
+25,3/30/2020,North Zone,45,1
+25,3/30/2020,South Zone,,0
+25,3/30/2020,Unknown,0,0
+26,3/31/2020,Calgary Zone,536,27
+26,3/31/2020,Central Zone,46,0
+26,3/31/2020,Edmonton Zone,203,6
+26,3/31/2020,North Zone,53,2
+26,3/31/2020,South Zone,,0
+26,3/31/2020,Unknown,1,0
+27,4/1/2020,Calgary Zone,594,27
+27,4/1/2020,Central Zone,48,0
+27,4/1/2020,Edmonton Zone,249,6
+27,4/1/2020,North Zone,53,2
+27,4/1/2020,South Zone,13,0
+27,4/1/2020,Unknown,1,0
+28,4/2/2020,Calgary Zone,677,29
+28,4/2/2020,Central Zone,52,0
+28,4/2/2020,Edmonton Zone,269,6
+28,4/2/2020,North Zone,58,4
+28,4/2/2020,South Zone,16,0
+28,4/2/2020,Unknown,1,0
+29,4/3/2020,Calgary Zone,716,29
+29,4/3/2020,Central Zone,53,0
+29,4/3/2020,Edmonton Zone,281,6
+29,4/3/2020,North Zone,61,4
+29,4/3/2020,South Zone,18,0
+29,4/3/2020,Unknown,1,0
+30,4/4/2020,Calgary Zone,720,29
+30,4/4/2020,Central Zone,54,0
+30,4/4/2020,Edmonton Zone,294,6
+30,4/4/2020,North Zone,72,6
+30,4/4/2020,South Zone,19,0
+30,4/4/2020,Unknown,1,0
+31,4/5/2020,Calgary Zone,748,30
+31,4/5/2020,Central Zone,58,0
+31,4/5/2020,Edmonton Zone,315,7
+31,4/5/2020,North Zone,75,7
+31,4/5/2020,South Zone,21,0
+31,4/5/2020,Unknown,1,0
+32,4/6/2020,Calgary Zone,763,31
+32,4/6/2020,Central Zone,58,0
+32,4/6/2020,Edmonton Zone,325,8
+32,4/6/2020,North Zone,80,8
+32,4/6/2020,South Zone,22,0
+32,4/6/2020,Unknown,1,0
+33,4/7/2020,Calgary Zone,780,31
+33,4/7/2020,Central Zone,64,0
+33,4/7/2020,Edmonton Zone,336,8
+33,4/7/2020,North Zone,87,8
+33,4/7/2020,South Zone,23,0
+33,4/7/2020,Unknown,1,0
+34,4/8/2020,Calgary Zone,805,32
+34,4/8/2020,Central Zone,64,0
+34,4/8/2020,Edmonton Zone,346,10
+34,4/8/2020,North Zone,89,8
+34,4/8/2020,South Zone,24,0
+34,4/8/2020,Unknown,1,0
+35,4/9/2020,Calgary Zone,823,32
+35,4/9/2020,Central Zone,64,0
+35,4/9/2020,Edmonton Zone,355,11
+35,4/9/2020,North Zone,89,8
+35,4/9/2020,South Zone,,0
+35,4/9/2020,Unknown,1,0
+36,4/10/2020,Calgary Zone,856,34
+36,4/10/2020,Central Zone,64,0
+36,4/10/2020,Edmonton Zone,357,11
+36,4/10/2020,North Zone,91,8
+36,4/10/2020,South Zone,,0
+36,4/10/2020,Unknown,3,0
+37,4/11/2020,Calgary Zone,902,34
+37,4/11/2020,Central Zone,64,0
+37,4/11/2020,Edmonton Zone,365,11
+37,4/11/2020,North Zone,96,9
+37,4/11/2020,South Zone,27,0
+37,4/11/2020,Unknown,3,0
+38,4/12/2020,Calgary Zone,940,36
+38,4/12/2020,Central Zone,65,0
+38,4/12/2020,Edmonton Zone,370,11
+38,4/12/2020,North Zone,98,9
+38,4/12/2020,South Zone,28,0
+38,4/12/2020,Unknown,3,0
+39,4/13/2020,Calgary Zone,1002,37
+39,4/13/2020,Central Zone,65,0
+39,4/13/2020,Edmonton Zone,372,11
+39,4/13/2020,North Zone,100,9
+39,4/13/2020,South Zone,,0
+39,4/13/2020,Unknown,3,0
+40,4/14/2020,Calgary Zone,1065,37
+40,4/14/2020,Central Zone,65,0
+40,4/14/2020,Edmonton Zone,377,11
+40,4/14/2020,North Zone,108,11
+40,4/14/2020,South Zone,31,0
+40,4/14/2020,Unknown,3,0
+41,4/15/2020,Calgary Zone,1177,43
+41,4/15/2020,Central Zone,65,0
+41,4/15/2020,Edmonton Zone,387,11
+41,4/15/2020,North Zone,116,11
+41,4/15/2020,South Zone,42,0
+41,4/15/2020,Unknown,4,0
+42,4/16/2020,Calgary Zone,1277,45
+42,4/16/2020,Central Zone,65,0
+42,4/16/2020,Edmonton Zone,394,11
+42,4/16/2020,North Zone,116,11
+42,4/16/2020,South Zone,51,0
+42,4/16/2020,Unknown,4,0
+43,4/17/2020,Calgary Zone,1406,46
+43,4/17/2020,Central Zone,66,0
+43,4/17/2020,Edmonton Zone,399,11
+43,4/17/2020,North Zone,121,13
+43,4/17/2020,South Zone,73,0
+43,4/17/2020,Unknown,4,0
+44,4/18/2020,Calgary Zone,1588,52
+44,4/18/2020,Central Zone,66,0
+44,4/18/2020,Edmonton Zone,402,11
+44,4/18/2020,North Zone,122,13
+44,4/18/2020,South Zone,113,0
+44,4/18/2020,Unknown,4,0
+45,4/19/2020,Calgary Zone,1731,57
+45,4/19/2020,Central Zone,67,0
+45,4/19/2020,Edmonton Zone,408,11
+45,4/19/2020,North Zone,127,14
+45,4/19/2020,South Zone,148,0
+45,4/19/2020,Unknown,4,0
+46,4/20/2020,Calgary Zone,1881,63
+46,4/20/2020,Central Zone,67,0
+46,4/20/2020,Edmonton Zone,420,11
+46,4/20/2020,North Zone,135,14
+46,4/20/2020,South Zone,199,1
+46,4/20/2020,Unknown,5,0
+47,4/21/2020,Calgary Zone,1998,65
+47,4/21/2020,Central Zone,69,0
+47,4/21/2020,Edmonton Zone,425,11
+47,4/21/2020,North Zone,140,14
+47,4/21/2020,South Zone,293,1
+47,4/21/2020,Unknown,5,0
+48,4/22/2020,Calgary Zone,2165,68
+48,4/22/2020,Central Zone,69,0
+48,4/22/2020,Edmonton Zone,429,12
+48,4/22/2020,North Zone,146,14
+48,4/22/2020,South Zone,348,1
+48,4/22/2020,Unknown,5,0
+49,4/23/2020,Calgary Zone,2392,70
+49,4/23/2020,Central Zone,71,0
+49,4/23/2020,Edmonton Zone,437,13
+49,4/23/2020,North Zone,153,14
+49,4/23/2020,South Zone,438,5
+49,4/23/2020,Unknown,8,0
+50,4/24/2020,Calgary Zone,2631,72
+50,4/24/2020,Central Zone,71,0
+50,4/24/2020,Edmonton Zone,449,13
+50,4/24/2020,North Zone,163,14
+50,4/24/2020,South Zone,497,5
+50,4/24/2020,Unknown,8,0
+51,4/25/2020,Calgary Zone,2789,76
+51,4/25/2020,Central Zone,71,0
+51,4/25/2020,Edmonton Zone,457,13
+51,4/25/2020,North Zone,170,14
+51,4/25/2020,South Zone,574,6
+51,4/25/2020,Unknown,8,0
+52,4/26/2020,Calgary Zone,2927,78
+52,4/26/2020,Central Zone,73,0
+52,4/26/2020,Edmonton Zone,461,13
+52,4/26/2020,North Zone,185,14
+52,4/26/2020,South Zone,632,6
+52,4/26/2020,Unknown,9,0
+53,4/27/2020,Calgary Zone,3052,79
+53,4/27/2020,Central Zone,73,0
+53,4/27/2020,Edmonton Zone,463,13
+53,4/27/2020,North Zone,193,14
+53,4/27/2020,South Zone,687,6
+53,4/27/2020,Unknown,9,0
+54,4/28/2020,Calgary Zone,3168,82
+54,4/28/2020,Central Zone,73,0
+54,4/28/2020,Edmonton Zone,466,13
+54,4/28/2020,North Zone,196,14
+54,4/28/2020,South Zone,801,7
+54,4/28/2020,Unknown,11,0
+55,4/29/2020,Calgary Zone,3307,85
+55,4/29/2020,Central Zone,73,0
+55,4/29/2020,Edmonton Zone,469,13
+55,4/29/2020,North Zone,200,14
+55,4/29/2020,South Zone,923,8
+55,4/29/2020,Unknown,11,0
+56,4/30/2020,Calgary Zone,3415,86
+56,4/30/2020,Central Zone,73,0
+56,4/30/2020,Edmonton Zone,474,13
+56,4/30/2020,North Zone,205,15
+56,4/30/2020,South Zone,1053,8
+56,4/30/2020,Unknown,11,0
+57,5/1/2020,Calgary Zone,3503,88
+57,5/1/2020,Central Zone,74,0
+57,5/1/2020,Edmonton Zone,475,13
+57,5/1/2020,North Zone,207,15
+57,5/1/2020,South Zone,1079,8
+57,5/1/2020,Unknown,11,0
+58,5/2/2020,Calgary Zone,3609,88
+58,5/2/2020,Central Zone,74,0
+58,5/2/2020,Edmonton Zone,476,13
+58,5/2/2020,North Zone,208,15
+58,5/2/2020,South Zone,1097,8
+58,5/2/2020,Unknown,11,0
+59,5/3/2020,Calgary Zone,3705,88
+59,5/3/2020,Central Zone,74,0
+59,5/3/2020,Edmonton Zone,478,13
+59,5/3/2020,North Zone,212,15
+59,5/3/2020,South Zone,1105,8
+59,5/3/2020,Unknown,11,0
+60,5/4/2020,Calgary Zone,3760,89
+60,5/4/2020,Central Zone,74,0
+60,5/4/2020,Edmonton Zone,479,13
+60,5/4/2020,North Zone,212,15
+60,5/4/2020,South Zone,1113,8
+60,5/4/2020,Unknown,11,0
+61,5/5/2020,Calgary Zone,3827,91
+61,5/5/2020,Central Zone,76,0
+61,5/5/2020,Edmonton Zone,482,13
+61,5/5/2020,North Zone,214,15
+61,5/5/2020,South Zone,1121,8
+61,5/5/2020,Unknown,11,0
+62,5/6/2020,Calgary Zone,3875,91
+62,5/6/2020,Central Zone,77,0
+62,5/6/2020,Edmonton Zone,482,13
+62,5/6/2020,North Zone,216,15
+62,5/6/2020,South Zone,1127,8
+62,5/6/2020,Unknown,11,0
+63,5/7/2020,Calgary Zone,3931,93
+63,5/7/2020,Central Zone,81,0
+63,5/7/2020,Edmonton Zone,484,13
+63,5/7/2020,North Zone,216,15
+63,5/7/2020,South Zone,1136,9
+63,5/7/2020,Unknown,11,0
+64,5/8/2020,Calgary Zone,3998,94
+64,5/8/2020,Central Zone,81,0
+64,5/8/2020,Edmonton Zone,484,13
+64,5/8/2020,North Zone,216,15
+64,5/8/2020,South Zone,1145,9
+64,5/8/2020,Unknown,11,0
+65,5/9/2020,Calgary Zone,4065,95
+65,5/9/2020,Central Zone,81,0
+65,5/9/2020,Edmonton Zone,486,13
+65,5/9/2020,North Zone,217,15
+65,5/9/2020,South Zone,1156,9
+65,5/9/2020,Unknown,11,0
+66,5/10/2020,Calgary Zone,4136,96
+66,5/10/2020,Central Zone,81,0
+66,5/10/2020,Edmonton Zone,490,13
+66,5/10/2020,North Zone,217,15
+66,5/10/2020,South Zone,1160,9
+66,5/10/2020,Unknown,11,0
+67,5/11/2020,Calgary Zone,4201,97
+67,5/11/2020,Central Zone,81,0
+67,5/11/2020,Edmonton Zone,490,13
+67,5/11/2020,North Zone,217,15
+67,5/11/2020,South Zone,1163,9
+67,5/11/2020,Unknown,11,0
+68,5/12/2020,Calgary Zone,4246,97
+68,5/12/2020,Central Zone,82,0
+68,5/12/2020,Edmonton Zone,492,13
+68,5/12/2020,North Zone,217,15
+68,5/12/2020,South Zone,1166,9
+68,5/12/2020,Unknown,11,0
+69,5/13/2020,Calgary Zone,4311,101
+69,5/13/2020,Central Zone,82,0
+69,5/13/2020,Edmonton Zone,494,13
+69,5/13/2020,North Zone,217,15
+69,5/13/2020,South Zone,1180,9
+69,5/13/2020,Unknown,11,0
+70,5/14/2020,Calgary Zone,4358,102
+70,5/14/2020,Central Zone,85,0
+70,5/14/2020,Edmonton Zone,494,13
+70,5/14/2020,North Zone,219,15
+70,5/14/2020,South Zone,1192,9
+70,5/14/2020,Unknown,11,0
+71,5/15/2020,Calgary Zone,4302,102
+71,5/15/2020,Central Zone,85,0
+71,5/15/2020,Edmonton Zone,495,13
+71,5/15/2020,North Zone,219,15
+71,5/15/2020,South Zone,1204,9
+71,5/15/2020,Unknown,11,0
+72,5/16/2020,Calgary Zone,4360,103
+72,5/16/2020,Central Zone,85,0
+72,5/16/2020,Edmonton Zone,496,13
+72,5/16/2020,North Zone,219,15
+72,5/16/2020,South Zone,1212,9
+72,5/16/2020,Unknown,11,0
+73,5/17/2020,Calgary Zone,4405,104
+73,5/17/2020,Central Zone,85,0
+73,5/17/2020,Edmonton Zone,496,13
+73,5/17/2020,North Zone,220,15
+73,5/17/2020,South Zone,1216,9
+73,5/17/2020,Unknown,11,0
+74,5/18/2020,Calgary Zone,4446,104
+74,5/18/2020,Central Zone,85,0
+74,5/18/2020,Edmonton Zone,496,13
+74,5/18/2020,North Zone,220,15
+74,5/18/2020,South Zone,1220,9
+74,5/18/2020,Unknown,11,0
+75,5/19/2020,Calgary Zone,4481,106
+75,5/19/2020,Central Zone,85,0
+75,5/19/2020,Edmonton Zone,497,13
+75,5/19/2020,North Zone,221,15
+75,5/19/2020,South Zone,1224,10
+75,5/19/2020,Unknown,11,0
+76,5/20/2020,Calgary Zone,4520,106
+76,5/20/2020,Central Zone,85,0
+76,5/20/2020,Edmonton Zone,499,13
+76,5/20/2020,North Zone,221,15
+76,5/20/2020,South Zone,1228,10
+76,5/20/2020,Unknown,11,0
+77,5/21/2020,Calgary Zone,4542,106
+77,5/21/2020,Central Zone,85,0
+77,5/21/2020,Edmonton Zone,499,13
+77,5/21/2020,North Zone,223,15
+77,5/21/2020,South Zone,1232,10
+77,5/21/2020,Unknown,11,0
+78,5/22/2020,Calgary Zone,4566,106
+78,5/22/2020,Central Zone,85,0
+78,5/22/2020,Edmonton Zone,499,13
+78,5/22/2020,North Zone,224,15
+78,5/22/2020,South Zone,1237,10
+78,5/22/2020,Unknown,11,0
+79,5/23/2020,Calgary Zone,4587,106
+79,5/23/2020,Central Zone,85,0
+79,5/23/2020,Edmonton Zone,500,13
+79,5/23/2020,North Zone,225,15
+79,5/23/2020,South Zone,1239,10
+79,5/23/2020,Unknown,11,0
+80,5/24/2020,Calgary Zone,4616,106
+80,5/24/2020,Central Zone,85,0
+80,5/24/2020,Edmonton Zone,502,13
+80,5/24/2020,North Zone,225,15
+80,5/24/2020,South Zone,1245,10
+80,5/24/2020,Unknown,11,0
+81,5/25/2020,Calgary Zone,4639,106
+81,5/25/2020,Central Zone,85,0
+81,5/25/2020,Edmonton Zone,502,13
+81,5/25/2020,North Zone,225,15
+81,5/25/2020,South Zone,1245,10
+81,5/25/2020,Unknown,11,0
+82,5/26/2020,Calgary Zone,4651,106
+82,5/26/2020,Central Zone,85,0
+82,5/26/2020,Edmonton Zone,504,13
+82,5/26/2020,North Zone,226,15
+82,5/26/2020,South Zone,1246,10
+82,5/26/2020,Unknown,11,0
+83,5/27/2020,Calgary Zone,4666,106
+83,5/27/2020,Central Zone,85,0
+83,5/27/2020,Edmonton Zone,507,13
+83,5/27/2020,North Zone,227,15
+83,5/27/2020,South Zone,1246,10
+83,5/27/2020,Unknown,11,0
+84,5/28/2020,Calgary Zone,4689,107
+84,5/28/2020,Central Zone,85,0
+84,5/28/2020,Edmonton Zone,508,13
+84,5/28/2020,North Zone,231,15
+84,5/28/2020,South Zone,1246,10
+84,5/28/2020,Unknown,11,0
+85,5/29/2020,Calgary Zone,4714,108
+85,5/29/2020,Central Zone,85,0
+85,5/29/2020,Edmonton Zone,518,13
+85,5/29/2020,North Zone,231,15
+85,5/29/2020,South Zone,1246,10
+85,5/29/2020,Unknown,11,0
+86,5/30/2020,Calgary Zone,4734,108
+86,5/30/2020,Central Zone,85,0
+86,5/30/2020,Edmonton Zone,523,13
+86,5/30/2020,North Zone,235,15
+86,5/30/2020,South Zone,1246,10
+86,5/30/2020,Unknown,11,0
+87,5/31/2020,Calgary Zone,4748,108
+87,5/31/2020,Central Zone,85,0
+87,5/31/2020,Edmonton Zone,532,13
+87,5/31/2020,North Zone,235,15
+87,5/31/2020,South Zone,1250,10
+87,5/31/2020,Unknown,11,0
+88,6/1/2020,Calgary Zone,4772,108
+88,6/1/2020,Central Zone,85,0
+88,6/1/2020,Edmonton Zone,535,13
+88,6/1/2020,North Zone,235,15
+88,6/1/2020,South Zone,1250,10
+88,6/1/2020,Unknown,11,0
+89,6/2/2020,Calgary Zone,4790,108
+89,6/2/2020,Central Zone,85,0
+89,6/2/2020,Edmonton Zone,540,13
+89,6/2/2020,North Zone,240,15
+89,6/2/2020,South Zone,1252,10
+89,6/2/2020,Unknown,12,0
+90,6/3/2020,Calgary Zone,4797,109
+90,6/3/2020,Central Zone,85,0
+90,6/3/2020,Edmonton Zone,542,13
+90,6/3/2020,North Zone,240,15
+90,6/3/2020,South Zone,1253,10
+90,6/3/2020,Unknown,12,0
+91,6/4/2020,Calgary Zone,4811,109
+91,6/4/2020,Central Zone,85,0
+91,6/4/2020,Edmonton Zone,550,13
+91,6/4/2020,North Zone,240,15
+91,6/4/2020,South Zone,1254,10
+91,6/4/2020,Unknown,12,0
+92,6/5/2020,Calgary Zone,4825,109
+92,6/5/2020,Central Zone,85,0
+92,6/5/2020,Edmonton Zone,572,13
+92,6/5/2020,North Zone,241,15
+92,6/5/2020,South Zone,1256,10
+92,6/5/2020,Unknown,12,0
+93,6/6/2020,Calgary Zone,4837,110
+93,6/6/2020,Central Zone,85,0
+93,6/6/2020,Edmonton Zone,584,13
+93,6/6/2020,North Zone,241,15
+93,6/6/2020,South Zone,1256,10
+93,6/6/2020,Unknown,12,0
+94,6/7/2020,Calgary Zone,4848,110
+94,6/7/2020,Central Zone,85,0
+94,6/7/2020,Edmonton Zone,601,13
+94,6/7/2020,North Zone,242,15
+94,6/7/2020,South Zone,1264,10
+94,6/7/2020,Unknown,12,0
+95,6/8/2020,Calgary Zone,4856,110
+95,6/8/2020,Central Zone,85,0
+95,6/8/2020,Edmonton Zone,612,13
+95,6/8/2020,North Zone,243,15
+95,6/8/2020,South Zone,1265,10
+95,6/8/2020,Unknown,12,0
+96,6/9/2020,Calgary Zone,4868,110
+96,6/9/2020,Central Zone,85,0
+96,6/9/2020,Edmonton Zone,629,13
+96,6/9/2020,North Zone,244,15
+96,6/9/2020,South Zone,1265,10
+96,6/9/2020,Unknown,12,0
+97,6/10/2020,Calgary Zone,4889,110
+97,6/10/2020,Central Zone,85,0
+97,6/10/2020,Edmonton Zone,652,13
+97,6/10/2020,North Zone,244,15
+97,6/10/2020,South Zone,1266,10
+97,6/10/2020,Unknown,12,0
+98,6/11/2020,Calgary Zone,4913,110
+98,6/11/2020,Central Zone,85,0
+98,6/11/2020,Edmonton Zone,671,13
+98,6/11/2020,North Zone,245,15
+98,6/11/2020,South Zone,1267,10
+98,6/11/2020,Unknown,12,0
+99,6/12/2020,Calgary Zone,4936,111
+99,6/12/2020,Central Zone,86,0
+99,6/12/2020,Edmonton Zone,684,13
+99,6/12/2020,North Zone,248,15
+99,6/12/2020,South Zone,1269,10
+99,6/12/2020,Unknown,12,0
+100,6/13/2020,Calgary Zone,4945,111
+100,6/13/2020,Central Zone,86,0
+100,6/13/2020,Edmonton Zone,693,13
+100,6/13/2020,North Zone,248,15
+100,6/13/2020,South Zone,1272,10
+100,6/13/2020,Unknown,12,0
+101,6/14/2020,Calgary Zone,4968,111
+101,6/14/2020,Central Zone,87,0
+101,6/14/2020,Edmonton Zone,712,13
+101,6/14/2020,North Zone,260,15
+101,6/14/2020,South Zone,1274,10
+101,6/14/2020,Unknown,12,0
+102,6/15/2020,Calgary Zone,4987,111
+102,6/15/2020,Central Zone,87,0
+102,6/15/2020,Edmonton Zone,733,14
+102,6/15/2020,North Zone,264,15
+102,6/15/2020,South Zone,1274,10
+102,6/15/2020,Unknown,12,0
+103,6/16/2020,Calgary Zone,4998,111
+103,6/16/2020,Central Zone,87,0
+103,6/16/2020,Edmonton Zone,747,14
+103,6/16/2020,North Zone,268,15
+103,6/16/2020,South Zone,1281,10
+103,6/16/2020,Unknown,13,0
+104,6/17/2020,Calgary Zone,5019,111
+104,6/17/2020,Central Zone,87,0
+104,6/17/2020,Edmonton Zone,768,14
+104,6/17/2020,North Zone,275,15
+104,6/17/2020,South Zone,1284,10
+104,6/17/2020,Unknown,13,0
+105,6/18/2020,Calgary Zone,5035,111
+105,6/18/2020,Central Zone,87,0
+105,6/18/2020,Edmonton Zone,794,14
+105,6/18/2020,North Zone,275,15
+105,6/18/2020,South Zone,1284,10
+105,6/18/2020,Unknown,13,0
+106,6/19/2020,Calgary Zone,5055,111
+106,6/19/2020,Central Zone,88,0
+106,6/19/2020,Edmonton Zone,823,14
+106,6/19/2020,North Zone,275,15
+106,6/19/2020,South Zone,1285,10
+106,6/19/2020,Unknown,13,0
+107,6/20/2020,Calgary Zone,5072,111
+107,6/20/2020,Central Zone,88,0
+107,6/20/2020,Edmonton Zone,846,15
+107,6/20/2020,North Zone,277,15
+107,6/20/2020,South Zone,1285,10
+107,6/20/2020,Unknown,13,0
+108,6/21/2020,Calgary Zone,5077,111
+108,6/21/2020,Central Zone,88,0
+108,6/21/2020,Edmonton Zone,857,15
+108,6/21/2020,North Zone,277,15
+108,6/21/2020,South Zone,1285,10
+108,6/21/2020,Unknown,13,0
+109,6/22/2020,Calgary Zone,5104,111
+109,6/22/2020,Central Zone,88,0
+109,6/22/2020,Edmonton Zone,883,15
+109,6/22/2020,North Zone,279,15
+109,6/22/2020,South Zone,1287,10
+109,6/22/2020,Unknown,13,0
+110,6/23/2020,Calgary Zone,5113,111
+110,6/23/2020,Central Zone,88,0
+110,6/23/2020,Edmonton Zone,910,15
+110,6/23/2020,North Zone,285,15
+110,6/23/2020,South Zone,1289,10
+110,6/23/2020,Unknown,13,0
+111,6/24/2020,Calgary Zone,5124,111
+111,6/24/2020,Central Zone,88,0
+111,6/24/2020,Edmonton Zone,920,15
+111,6/24/2020,North Zone,289,15
+111,6/24/2020,South Zone,1291,10
+111,6/24/2020,Unknown,13,0
+112,6/25/2020,Calgary Zone,5132,111
+112,6/25/2020,Central Zone,89,0
+112,6/25/2020,Edmonton Zone,942,15
+112,6/25/2020,North Zone,290,15
+112,6/25/2020,South Zone,1293,10
+112,6/25/2020,Unknown,13,0
+113,6/26/2020,Calgary Zone,5143,111
+113,6/26/2020,Central Zone,89,0
+113,6/26/2020,Edmonton Zone,959,15
+113,6/26/2020,North Zone,301,15
+113,6/26/2020,South Zone,1301,10
+113,6/26/2020,Unknown,13,0
+114,6/27/2020,Calgary Zone,5178,111
+114,6/27/2020,Central Zone,89,0
+114,6/27/2020,Edmonton Zone,982,15
+114,6/27/2020,North Zone,304,15
+114,6/27/2020,South Zone,1301,10
+114,6/27/2020,Unknown,13,0
+115,6/28/2020,Calgary Zone,5192,111
+115,6/28/2020,Central Zone,90,0
+115,6/28/2020,Edmonton Zone,1015,15
+115,6/28/2020,North Zone,304,15
+115,6/28/2020,South Zone,1305,10
+115,6/28/2020,Unknown,13,0
+116,6/29/2020,Calgary Zone,5225,111
+116,6/29/2020,Central Zone,91,0
+116,6/29/2020,Edmonton Zone,1028,15
+116,6/29/2020,North Zone,309,15
+116,6/29/2020,South Zone,1309,10
+116,6/29/2020,Unknown,14,0
+117,6/30/2020,Calgary Zone,5352,112
+117,6/30/2020,Central Zone,93,1
+117,6/30/2020,Edmonton Zone,1028,15
+117,6/30/2020,North Zone,312,16
+117,6/30/2020,South Zone,1309,10
+117,6/30/2020,Unknown,14,0
