@@ -69,7 +69,7 @@ Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
 12,3/17/2020,Central Zone,3,0
 12,3/17/2020,Edmonton Zone,29,1
 12,3/17/2020,North Zone,3,1
-12,3/17/2020,South Zone,,0
+12,3/17/2020,South Zone,1,0
 12,3/17/2020,Unknown,0,0
 13,3/18/2020,Calgary Zone,88,0
 13,3/18/2020,Central Zone,3,0
@@ -105,7 +105,7 @@ Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
 18,3/23/2020,Central Zone,22,0
 18,3/23/2020,Edmonton Zone,71,2
 18,3/23/2020,North Zone,17,1
-18,3/23/2020,South Zone,,0
+18,3/23/2020,South Zone,8,0
 18,3/23/2020,Unknown,0,0
 19,3/24/2020,Calgary Zone,255,6
 19,3/24/2020,Central Zone,30,0
@@ -123,37 +123,37 @@ Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
 21,3/26/2020,Central Zone,32,0
 21,3/26/2020,Edmonton Zone,102,3
 21,3/26/2020,North Zone,24,1
-21,3/26/2020,South Zone,,0
+21,3/26/2020,South Zone,11,0
 21,3/26/2020,Unknown,0,0
 22,3/27/2020,Calgary Zone,381,16
 22,3/27/2020,Central Zone,39,0
 22,3/27/2020,Edmonton Zone,125,3
 22,3/27/2020,North Zone,38,1
-22,3/27/2020,South Zone,,0
+22,3/27/2020,South Zone,11,0
 22,3/27/2020,Unknown,0,0
 23,3/28/2020,Calgary Zone,413,21
 23,3/28/2020,Central Zone,39,0
 23,3/28/2020,Edmonton Zone,139,4
 23,3/28/2020,North Zone,42,1
-23,3/28/2020,South Zone,,0
+23,3/28/2020,South Zone,11,0
 23,3/28/2020,Unknown,0,0
 24,3/29/2020,Calgary Zone,432,24
 24,3/29/2020,Central Zone,41,0
 24,3/29/2020,Edmonton Zone,148,4
 24,3/29/2020,North Zone,42,1
-24,3/29/2020,South Zone,,0
+24,3/29/2020,South Zone,11,0
 24,3/29/2020,Unknown,0,0
 25,3/30/2020,Calgary Zone,452,25
 25,3/30/2020,Central Zone,42,0
 25,3/30/2020,Edmonton Zone,165,4
 25,3/30/2020,North Zone,45,1
-25,3/30/2020,South Zone,,0
+25,3/30/2020,South Zone,11,0
 25,3/30/2020,Unknown,0,0
 26,3/31/2020,Calgary Zone,536,27
 26,3/31/2020,Central Zone,46,0
 26,3/31/2020,Edmonton Zone,203,6
 26,3/31/2020,North Zone,53,2
-26,3/31/2020,South Zone,,0
+26,3/31/2020,South Zone,11,0
 26,3/31/2020,Unknown,1,0
 27,4/1/2020,Calgary Zone,594,27
 27,4/1/2020,Central Zone,48,0
@@ -207,13 +207,13 @@ Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
 35,4/9/2020,Central Zone,64,0
 35,4/9/2020,Edmonton Zone,355,11
 35,4/9/2020,North Zone,89,8
-35,4/9/2020,South Zone,,0
+35,4/9/2020,South Zone,24,0
 35,4/9/2020,Unknown,1,0
 36,4/10/2020,Calgary Zone,856,34
 36,4/10/2020,Central Zone,64,0
 36,4/10/2020,Edmonton Zone,357,11
 36,4/10/2020,North Zone,91,8
-36,4/10/2020,South Zone,,0
+36,4/10/2020,South Zone,24,0
 36,4/10/2020,Unknown,3,0
 37,4/11/2020,Calgary Zone,902,34
 37,4/11/2020,Central Zone,64,0
@@ -231,7 +231,7 @@ Day Count,Date,Alberta Health Services Zone,Case Count,Death Count
 39,4/13/2020,Central Zone,65,0
 39,4/13/2020,Edmonton Zone,372,11
 39,4/13/2020,North Zone,100,9
-39,4/13/2020,South Zone,,0
+39,4/13/2020,South Zone,28,0
 39,4/13/2020,Unknown,3,0
 40,4/14/2020,Calgary Zone,1065,37
 40,4/14/2020,Central Zone,65,0
