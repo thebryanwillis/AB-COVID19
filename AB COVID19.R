@@ -11,7 +11,7 @@ covid
 #Produce static scatterplot graph for recoveries
 p = ggplot(covid, aes(x=Day.Count, y=Case.Count, colour = Alberta.Health.Services.Zone))+geom_point(show.legend = FALSE)+labs(x="Days", y="# of Cases")
 #Split by Health Zone, add trails, elapse by day
-p = p + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Day.Count)+ shadow_mark(alpha = 0.3, size = 0.75)+labs(title = "Day: {frame_time}")
+p = p + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Day.Count)+ shadow_mark(alpha = 0.3, size = 0.75)+labs(title = "Cases per Day: {frame_time}")
 #Animate graph
 animate(p, duration = 7, fps = 25, width = 800, height = 450, renderer = gifski_renderer())
 anim_save("cases.gif")
@@ -19,7 +19,7 @@ anim_save("cases.gif")
 #Produce static scatterplot graph for deaths
 p2 = ggplot(covid, aes(x=Day.Count, y=Death.Count, colour = Alberta.Health.Services.Zone))+geom_point(show.legend = FALSE)+labs(x="Days", y="# of Deaths")
 #Split by Health Zone, add trails, elapse by day
-p2 = p2 + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Day.Count)+ shadow_mark(alpha = 0.3, size = 0.75)+labs(title = "Day: {frame_time}")
+p2 = p2 + facet_wrap(~Alberta.Health.Services.Zone) +transition_time(Day.Count)+ shadow_mark(alpha = 0.3, size = 0.75)+labs(title = "Deaths per Day: {frame_time}")
 #Animate graph
 animate(p2, duration = 7, fps = 25, width = 800, height = 450, renderer = gifski_renderer())
 anim_save("death.gif")
